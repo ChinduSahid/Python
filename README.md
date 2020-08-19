@@ -4,5 +4,7 @@ Python~ Data cleaning, Correlation, Logistic regression, Scatter plot,Euclidean 
 Data cleaning/preperation is carried out on a marketing campaign dataset using Python.
 A logistic regression model is then build and tested for adequacy.
 
-Python basics :https://github.com/ChinduSahid/Python/blob/master/Python%20Basics.ipynb  
+basics :https://github.com/ChinduSahid/Python/blob/master/Python%20Basics.ipynb
+Filtering :https://github.com/ChinduSahid/Python/blob/master/Filtering.ipynb  
+Combining multiple CSV in a folder : https://github.com/ChinduSahid/Python/blob/master/Combining%20multiple%20datasets.ipynb  
 Python modeling :https://github.com/ChinduSahid/Python/blob/master/Python%20Jupyter%20notebook.pdf
