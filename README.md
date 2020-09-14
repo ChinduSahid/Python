@@ -10,4 +10,4 @@ Marketing campaign Analysis :  https://github.com/ChinduSahid/Python/blob/master
   
 Combining multiple CSV in a folder : https://github.com/ChinduSahid/Python/blob/master/Combining%20data.ipynb
 
-Customer Segmentation : https://github.com/ChinduSahid/Python/blob/master/Customer%20Segmentation.ipynb (Incomplete)
+Customer Segmentation : https://github.com/ChinduSahid/Python/blob/master/Customer%20Segmentation.ipynb
